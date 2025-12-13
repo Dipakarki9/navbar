@@ -1,0 +1,25 @@
+#navbar{
+    height: 60px;
+    background-color: rgb(196, 247, 230);
+    border:1px solid black;
+    font-family: 'Times New Roman';
+    border-radius: 30px;
+    padding: 10px;
+    text-align: center;
+    
+}
+button{
+    background-color: rgb(248, 248, 168);
+}
+ a{
+    margin-right: 250px;
+    
+ }  
+ #logo{
+    color:red;
+    font-size: 18px;
+ }
+ *{
+    margin:0;
+    
+ }
