@@ -1,0 +1,12 @@
+.container{
+    background-color: azure;
+    border: 2px solid #555;
+    min-height: 100px;
+    padding: 20px;
+    border-radius: 10px;
+    width:200px;
+    margin:auto;
+}
+.container::hover{
+    color:red;
+}
