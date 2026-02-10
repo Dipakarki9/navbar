@@ -1,0 +1,33 @@
+.container{
+    background-color: antiquewhite;
+    /* height:fit-content; */
+    width: auto;
+    display: flex;
+    margin: 80px;
+
+    padding: 40px;
+    gap: 40px;
+    justify-content: space-evenly;
+
+}
+.blue{
+    background-color: rgb(211, 228, 124);
+    height: 100px;
+    width: 100%;
+       border: 2px solid #0f0d10;
+  text-align: center;
+  cursor: pointer;
+
+}
+.blue:hover{
+    color: skyblue;
+    background-image:-webkit-image-set("Website-goals.webp");
+}
+.div{
+    margin: 80px;
+    
+}
+.div::first-letter{
+    font-size: 50px;
+    color:blueviolet;
+}
